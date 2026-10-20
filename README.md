@@ -1,5 +1,7 @@
 # 2421 Serial Communication System
 
+**Additional submission files and evidence:** see [Drive submission and evidence](docs/drive-evidence.md) for the separately preserved Drive circuit/report snapshot and available recordings or captures.
+
 A Proteus digital-logic project for generating the repeating decimal sequence **5 → 3 → 2 → 1**, encoding each digit in **2421 BCD**, transmitting it serially, and reconstructing the original digit at the receiver.
 
 **Status: work in progress.** The original report states that the circuit worked through the encoder, but the serial-input/parallel-output stage did not work correctly. End-to-end transmission and recovery have not been demonstrated. The circuit has not been rerun during repository preparation.
